@@ -1,0 +1,42 @@
+! Title: flyESCke AdGuard Whitelist
+! Maintainer: flyESCke
+! Version: 1.21.06.01
+! TimeUpdated: 2021-06-01T00:00:00+00:00
+! Expires: 1 day (update frequency)
+! Homepage: https://github.com/flyescke/adfilterlists
+
+#VTM GO
+@@||fwmrm.net^
+@@||videoplayer.dpgmedia.net^
+
+#PLAY 456
+@@||goplay.be^
+
+#VRT
+@@||vrt.be^
+
+#MSFT
+@@||microsoft.com^
+@@||microsoft.net^
+@@||xboxlive.com^
+@@||live.com^
+@@||office.com^
+@@||windows.com^
+@@||windows.net^
+@@||msn.com^
+@@||outlookmobile.com^
+@@||skype.com^
+@@||msedge.net^
+@@||appcenter.ms^
+@@||visualstudio.com^
+@@||azure.com^
+@@||azureedge.net^
+@@||bing.com^
+@@||dynamics.com^
+
+#BANKS
+@@||argenta.be^
+@@||bnpparibasfortis.be^
+
+#PODCASTS AND NEWS
+@@||chtbl.com^
