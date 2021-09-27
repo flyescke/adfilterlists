@@ -45,4 +45,4 @@
 @@||belgiantrain.be^
 
 #mijndieren.eu
-@@||p.typekit.net^
+@@||typekit.net^
