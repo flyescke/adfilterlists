@@ -33,6 +33,7 @@
 @@||azureedge.net^
 @@||bing.com^
 @@||dynamics.com^
+@@||msecnd.net^
 
 #BANKS
 @@||argenta.be^
