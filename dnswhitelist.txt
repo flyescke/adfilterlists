@@ -51,3 +51,15 @@
 
 # Ubiquiti telemetry
 @@||ui.com^
+
+#CDN
+@@||akamai.net^
+@@||akamaiedge.net^
+@@||akamaized.net^
+@@||akadns.net^
+
+#Google
+@@||google.com^
+@@||googleapis.com^
+@@||googleusercontent.com^
+@@||googlevideo.com^
