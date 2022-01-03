@@ -36,6 +36,8 @@
 @@||msecnd.net^
 @@||windowsupdate.com^
 @@||msftconnecttest.com^
+@@||office365.com^
+@@||github.com^
 
 #BANKS
 @@||argenta.be^
