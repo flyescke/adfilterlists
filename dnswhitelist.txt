@@ -5,16 +5,6 @@
 ! Expires: 1 day (update frequency)
 ! Homepage: https://github.com/flyescke/adfilterlists
 
-#VTM GO
-@@||fwmrm.net^
-@@||videoplayer.dpgmedia.net^
-
-#PLAY 456
-@@||goplay.be^
-
-#VRT
-@@||vrt.be^
-
 #MSFT
 @@||microsoft.com^
 @@||microsoft.net^
@@ -39,11 +29,23 @@
 @@||office365.com^
 @@||github.com^
 
+#Google
+@@||google.com^
+@@||googleapis.com^
+@@||googleusercontent.com^
+@@||googlevideo.com^
+@@||gvt1.com^
+@@||gvt2.com^
+
 #BANKS
 @@||argenta.be^
 @@||bnpparibasfortis.be^
 
-#PODCASTS AND NEWS
+#Media
+@@||fwmrm.net^
+@@||videoplayer.dpgmedia.net^
+@@||goplay.be^
+@@||vrt.be^
 @@||chtbl.com^
 
 #NBMS Mailings
@@ -60,9 +62,3 @@
 @@||akamaiedge.net^
 @@||akamaized.net^
 @@||akadns.net^
-
-#Google
-@@||google.com^
-@@||googleapis.com^
-@@||googleusercontent.com^
-@@||googlevideo.com^
