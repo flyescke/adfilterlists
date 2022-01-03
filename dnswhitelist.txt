@@ -44,6 +44,7 @@
 #Media
 @@||fwmrm.net^
 @@||videoplayer.dpgmedia.net^
+@@||persgroep.be^
 @@||goplay.be^
 @@||vrt.be^
 @@||chtbl.com^
