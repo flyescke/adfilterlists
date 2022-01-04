@@ -1,7 +1,7 @@
 ! Title: flyESCke's AdGuard Whitelist
 ! Maintainer: flyESCke
-! Version: 1.22.01.03
-! TimeUpdated: 2022-01-03T00:00:00+00:00
+! Version: 1.22.01.04
+! TimeUpdated: 2022-01-04T00:00:00+00:00
 ! Expires: 1 day (update frequency)
 ! Homepage: https://github.com/flyescke/adfilterlists
 
@@ -36,6 +36,7 @@
 @@||googlevideo.com^
 @@||gvt1.com^
 @@||gvt2.com^
+@@||waze.com^
 
 #BANKS
 @@||argenta.be^
