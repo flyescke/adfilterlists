@@ -1,7 +1,7 @@
 ! Title: flyESCke's AdGuard Whitelist
 ! Maintainer: flyESCke
-! Version: 1.22.03.07
-! TimeUpdated: 2022-03-07T00:00:00+00:00
+! Version: 1.22.03.10
+! TimeUpdated: 2022-03-10T00:00:00+00:00
 ! Expires: 1 day (update frequency)
 ! Homepage: https://github.com/flyescke/adfilterlists
 
@@ -67,3 +67,6 @@
 @@||akamaiedge.net^
 @@||akamaized.net^
 @@||akadns.net^
+
+#Viking Deals
+@@||zenaps.com^
