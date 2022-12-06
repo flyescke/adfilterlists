@@ -70,3 +70,9 @@
 
 #Viking Deals
 @@||zenaps.com^
+
+#Tweakers
+@@||tweakers.net^$document
+@@||tweakers.net^$elemhide
+@@||aa.tweakers.nl^
+@@||ab.tweakers.nl^

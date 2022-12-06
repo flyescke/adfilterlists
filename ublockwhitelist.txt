@@ -13,3 +13,8 @@ hetarchief.be#@#+js(no-floc)
 
 goplay.be#@#.googleAd
 goplay.be#@#.ad-notice
+
+@@||tweakers.net^$document
+@@||tweakers.net^$elemhide
+@@||aa.tweakers.nl^
+@@||ab.tweakers.nl^
