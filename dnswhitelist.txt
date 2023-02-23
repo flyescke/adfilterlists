@@ -1,7 +1,7 @@
 ! Title: flyESCke's AdGuard Whitelist
 ! Maintainer: flyESCke
 ! Version: 1.23.02.23
-! TimeUpdated: 2023-02-23T00:00:00+00:00
+! TimeUpdated: 2023-02-23T01:00:00+00:00
 ! Expires: 1 day (update frequency)
 ! Homepage: https://github.com/flyescke/adfilterlists
 
