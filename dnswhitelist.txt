@@ -57,11 +57,12 @@
 @@||reuters.com^
 #GoPlay for chromecast ..
 @@||goplay.be^
-@@||cxense.com^
-@@||onthe.io^
-@@||pbstck.com^
-@@||summerhamster.com^
-@@||doubleclick.net^
+@@||cdn.cxense.com^
+@@||cdn.onthe.io^
+@@||cdn.pbstck.com^
+@@||boot.pbstck.com^
+@@||pubads.g.doubleclick.net^
+@@||securepubads.g.doubleclick.net^
 
 #NBMS Mailings
 @@||belgiantrain.be^
