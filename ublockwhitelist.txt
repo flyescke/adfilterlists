@@ -3,7 +3,7 @@
 ! Version: 1.22.12.06
 ! TimeUpdated: 2022-12-06T00:00:00+00:00
 ! Expires: 1 day (update frequency)
-! Homepage: https://github.com/flyescke/adfilterlists
+! Homepage: https://gitea.keroo.dev/kevin/adfilterlists
 
 @@||meemoo.zendesk.com^$domain=hetarchief.be
 @@||widget-mediator.zopim.com^$domain=hetarchief.be
