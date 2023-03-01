@@ -71,6 +71,7 @@
 @@||moatads.com^$ctag=device_tv|os_android
 @@||dpgmedia.net^$ctag=device_tv|os_android
 @@||alphonso.tv^$ctag=device_tv|os_android
+@@||adsafeprotected.com^$ctag=device_tv|os_android
 
 #NBMS Mailings
 @@||belgiantrain.be^
