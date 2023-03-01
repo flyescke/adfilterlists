@@ -55,7 +55,7 @@
 @@||vrt.be^
 @@||chtbl.com^
 @@||reuters.com^
-#GoPlay for chromecast ..
+#GoPlay for Android(TV)
 @@||goplay.be^
 @@||cdn.cxense.com^
 @@||cdn.onthe.io^
@@ -63,6 +63,14 @@
 @@||boot.pbstck.com^
 @@||pubads.g.doubleclick.net^
 @@||securepubads.g.doubleclick.net^
+#Android TV
+@@||2mdn.net^$ctag=device_tv
+@@||googlesyndication.com^$ctag=device_tv
+@@||doubleclick.net^$ctag=device_tv
+@@||adnxs.com^$ctag=device_tv
+@@||moatads.com^$ctag=device_tv
+@@||dpgmedia.net^$ctag=device_tv
+@@||alphonso.tv^$ctag=device_tv
 
 #NBMS Mailings
 @@||belgiantrain.be^
