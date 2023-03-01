@@ -51,6 +51,7 @@
 @@||videoplayer.dpgmedia.net^
 @@||persgroep.be^
 @@||dpgmedia.cloud^
+@@||medialaancdn.be^
 @@||hln.script.admo.tv^
 @@||vrt.be^
 @@||chtbl.com^
@@ -72,6 +73,8 @@
 @@||dpgmedia.net^$ctag=device_tv|os_android
 @@||alphonso.tv^$ctag=device_tv|os_android
 @@||adsafeprotected.com^$ctag=device_tv|os_android
+@@||gemius.pl^$ctag=device_tv|os_android
+@@||brandmetrics.com^$ctag=device_tv|os_android
 
 #NBMS Mailings
 @@||belgiantrain.be^
