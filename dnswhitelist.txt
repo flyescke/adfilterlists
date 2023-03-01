@@ -57,7 +57,7 @@
 @@||reuters.com^
 #GoPlay for Android(TV)
 @@||goplay.be^
-@@||cdn.cxense.com^
+@@||cxense.com^
 @@||cdn.onthe.io^
 @@||cdn.pbstck.com^
 @@||boot.pbstck.com^
