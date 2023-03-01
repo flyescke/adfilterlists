@@ -64,13 +64,13 @@
 @@||pubads.g.doubleclick.net^
 @@||securepubads.g.doubleclick.net^
 #Android TV
-@@||2mdn.net^$ctag=device_tv
-@@||googlesyndication.com^$ctag=device_tv
-@@||doubleclick.net^$ctag=device_tv
-@@||adnxs.com^$ctag=device_tv
-@@||moatads.com^$ctag=device_tv
-@@||dpgmedia.net^$ctag=device_tv
-@@||alphonso.tv^$ctag=device_tv
+@@||2mdn.net^$ctag=device_tv|os_android
+@@||googlesyndication.com^$ctag=device_tv|os_android
+@@||doubleclick.net^$ctag=device_tv|os_android
+@@||adnxs.com^$ctag=device_tv|os_android
+@@||moatads.com^$ctag=device_tv|os_android
+@@||dpgmedia.net^$ctag=device_tv|os_android
+@@||alphonso.tv^$ctag=device_tv|os_android
 
 #NBMS Mailings
 @@||belgiantrain.be^
