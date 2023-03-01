@@ -75,6 +75,7 @@
 @@||adsafeprotected.com^$ctag=device_tv|os_android
 @@||gemius.pl^$ctag=device_tv|os_android
 @@||brandmetrics.com^$ctag=device_tv|os_android
+@@||app-measurement.com^$ctag=device_tv|os_android
 
 #NBMS Mailings
 @@||belgiantrain.be^
