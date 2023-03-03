@@ -115,5 +115,14 @@
 #SmartGateway
 @@||connectix.nl^
 
+#Takeaway app
+@@||takeaway.com^$ctag=os_android
+@@||citymeal.com^$ctag=os_android
+@@||info.startappservice.com^$ctag=os_android
+@@||api.leanplum.com^$ctag=os_android
+@@||app.adjust.world^$ctag=os_android
+@@||app.adjust.net.in^$ctag=os_android
+@@||radar.cedexis.com^$ctag=os_android
+
 #Other
 @@||data.email.gamma.be^
