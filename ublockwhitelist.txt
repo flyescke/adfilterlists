@@ -1,9 +1,9 @@
 ! Title: flyESCke's uBlock Whitelist
 ! Maintainer: flyESCke
-! Version: 1.22.12.06
-! TimeUpdated: 2022-12-06T00:00:00+00:00
+! Version: 1.23.12.14
+! TimeUpdated: 2023-12-14T00:00:00+00:00
 ! Expires: 1 day (update frequency)
-! Homepage: https://gitea.keroo.dev/kevin/adfilterlists
+! Homepage: https://raw.githubusercontent.com/flyescke/adfilterlists/main/ublockwhitelist.txt
 
 @@||meemoo.zendesk.com^$domain=hetarchief.be
 @@||widget-mediator.zopim.com^$domain=hetarchief.be
