@@ -1,7 +1,7 @@
 ! Title: flyESCke's AdGuard Whitelist
 ! Maintainer: flyESCke
-! Version: 1.23.12.14
-! TimeUpdated: 2023-12-14T00:00:00+00:00
+! Version: 1.24.02.21
+! TimeUpdated: 2024-02-21T00:00:00+00:00
 ! Expires: 1 day (update frequency)
 ! Homepage: https://raw.githubusercontent.com/flyescke/adfilterlists/main/dnswhitelist.txt
 
@@ -63,20 +63,19 @@
 @@||goplay.be^
 @@||cxense.com^
 @@||cdn.onthe.io^
-@@||cdn.pbstck.com^
-@@||boot.pbstck.com^
-#@@||doubleclick.net
+@@||pbstck.com
+@@||stickyadstv.com
+@@||gemius.pl
+@@||doubleclick.net
 
 #Android TV
 @@||2mdn.net^$ctag=device_tv|os_android
 @@||googlesyndication.com^$ctag=device_tv|os_android
-@@||doubleclick.net^$ctag=device_tv|os_android
 @@||adnxs.com^$ctag=device_tv|os_android
 @@||moatads.com^$ctag=device_tv|os_android
 @@||dpgmedia.net^$ctag=device_tv|os_android
 @@||alphonso.tv^$ctag=device_tv|os_android
 @@||adsafeprotected.com^$ctag=device_tv|os_android
-@@||gemius.pl^$ctag=device_tv|os_android
 @@||brandmetrics.com^$ctag=device_tv|os_android
 @@||app-measurement.com^$ctag=device_tv|os_android
 @@||teads.tv^$ctag=device_tv|os_android
