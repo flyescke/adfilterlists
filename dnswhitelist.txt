@@ -62,6 +62,10 @@
 @@||dpm.demdex.net^
 @@||websdk.appsflyer.com^
 @@||amplify.outbrain.com^
+#Vtmgo
+@@||adsafeprotected.com
+@@||bluekai.com
+@@||moatads.com
 
 #GoPlay for Android(TV)
 @@||goplay.be^
@@ -135,6 +139,13 @@
 @@||app.adjust.world^$ctag=os_android
 @@||app.adjust.net.in^$ctag=os_android
 @@||radar.cedexis.com^$ctag=os_android
+
+#Colruyt app
+@@||colruytxtra.data.adobedc.net^$ctag=os_android
+@@||xgwbeb-launches.appsflyersdk.com^$ctag=os_android
+@@||colruyt.demdex.net^$ctag=os_android
+@@||xgwbeb-cdn-settings.appsflyersdk.com^$ctag=os_android
+@@||colruytbusinessservi.tt.omtrdc.net^$ctag=os_android
 
 #Other
 @@||data.email.gamma.be
