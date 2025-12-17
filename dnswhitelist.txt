@@ -42,6 +42,7 @@
 @@||gvt1.com
 @@||gvt2.com
 @@||waze.com
+@@||share.google
 
 #BANKS
 @@||argenta.be^
@@ -155,3 +156,7 @@
 
 #nationale loterij
 @@||nationale-loterij.be
+
+#cleanuparr
+@@||cleanuparr.pages.dev
+@@||cleanuparr-status.pages.dev
