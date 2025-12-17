@@ -153,6 +153,7 @@
 @@||data.email.gamma.be
 @@||lidl.media01.eu
 @@||proximus.be
+@@||reddit.com
 
 #nationale loterij
 @@||nationale-loterij.be
