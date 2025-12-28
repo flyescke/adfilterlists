@@ -170,4 +170,4 @@
 @@||syncthing.net
 
 #servarr.com
-servarr.com
+@@||servarr.com
