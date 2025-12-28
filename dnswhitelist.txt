@@ -161,3 +161,7 @@
 #cleanuparr
 @@||cleanuparr.pages.dev
 @@||cleanuparr-status.pages.dev
+
+#wordpress
+@@||jetpack.wordpress.com
+@@||jetpack.com
