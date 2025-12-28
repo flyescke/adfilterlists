@@ -168,3 +168,6 @@
 
 #syncthing
 @@||syncthing.net
+
+#servarr.com
+servarr.com
