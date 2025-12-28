@@ -165,3 +165,6 @@
 #wordpress
 @@||jetpack.wordpress.com
 @@||jetpack.com
+
+#syncthing
+@@||syncthing.net
