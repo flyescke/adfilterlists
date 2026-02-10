@@ -1,7 +1,7 @@
 ! Title: flyESCke's AdGuard Whitelist
 ! Maintainer: flyESCke
-! Version: 1.24.06.27
-! TimeUpdated: 2024-06-27T00:00:00+00:00
+! Version: 1.26.02.10
+! TimeUpdated: 2026-02-10T00:00:00+00:00
 ! Expires: 1 day (update frequency)
 ! Homepage: https://raw.githubusercontent.com/flyescke/adfilterlists/main/dnswhitelist.txt
 
@@ -154,6 +154,9 @@
 @@||lidl.media01.eu
 @@||proximus.be
 @@||reddit.com
+@@||www.koffie-theehuis-tstilgenot.be
+@@||www.liquidgoldjewelry.be
+@@||www.cafelegumeskoppenberg.be
 
 #nationale loterij
 @@||nationale-loterij.be
@@ -171,3 +174,11 @@
 
 #servarr.com
 @@||servarr.com
+
+# OnePlus
+@@||heytapmobile.com
+@@||heytapdl.com
+@@||allawnos.com
+
+# crashlytics
+@@||firebase-settings.crashlytics.com^$important
