@@ -11,6 +11,7 @@
 @@||xboxlive.com^
 @@||live.com^
 @@||office.com^
+@@||office.net^
 @@||windows.com^
 @@||windows.net^
 @@||msn.com^
