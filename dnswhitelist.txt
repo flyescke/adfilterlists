@@ -1,7 +1,7 @@
 ! Title: flyESCke's AdGuard Whitelist
 ! Maintainer: flyESCke
-! Version: 1.26.02.10
-! TimeUpdated: 2026-02-10T00:00:00+00:00
+! Version: 1.26.03.18
+! TimeUpdated: 2026-03-18T00:00:00+00:00
 ! Expires: 1 day (update frequency)
 ! Homepage: https://raw.githubusercontent.com/flyescke/adfilterlists/main/dnswhitelist.txt
 
@@ -12,6 +12,7 @@
 @@||live.com^
 @@||office.com^
 @@||office.net^
+@@||measure.office.net^
 @@||windows.com^
 @@||windows.net^
 @@||msn.com^
@@ -180,6 +181,9 @@
 @@||heytapmobile.com
 @@||heytapdl.com
 @@||allawnos.com
+
+# Phillips Hue
+@@||meethue.com
 
 # crashlytics
 @@||firebase-settings.crashlytics.com^$important
