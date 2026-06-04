@@ -182,3 +182,6 @@
 
 # crashlytics
 @@||firebase-settings.crashlytics.com^$important
+
+@@||hema.com
+@@||mobilevikings.be
