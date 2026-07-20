@@ -1,7 +1,7 @@
 ! Title: flyESCke's AdGuard Whitelist
 ! Maintainer: flyESCke
-! Version: 1.26.03.18
-! TimeUpdated: 2026-03-18T00:00:00+00:00
+! Version: 1.26.07.20
+! TimeUpdated: 2026-07-20T00:00:00+00:00
 ! Expires: 1 day (update frequency)
 ! Homepage: https://raw.githubusercontent.com/flyescke/adfilterlists/main/dnswhitelist.txt
 
@@ -90,6 +90,9 @@
 @@||brandmetrics.com^$ctag=device_tv|os_android
 @@||app-measurement.com^$ctag=device_tv|os_android
 @@||teads.tv^$ctag=device_tv|os_android
+
+#Monitoring
+@@||hc-ping.com
 
 #NBMS Mailings
 @@||belgiantrain.be
